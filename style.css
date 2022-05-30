@@ -1,0 +1,20 @@
+body{
+text-align:center;
+}
+h1{
+    font-size:40 px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+#app {
+background-color: dodgerblue;
+}
+#game{
+    background-color: dodgerblue;
+}
+.line{
+height: 6px;
+background-color: dodgerblue;
+width: 70px;
+margin: 8px auto;
+}
